@@ -1,0 +1,9 @@
+alias exec siib sh ip int brief
+alias exec sri sh run | inc 
+alias exec srii sh run int 
+alias exec sid sh int desc
+alias exec sis sh interface status
+alias exec c conf t
+alias exec crs copy run start
+alias exec sirv sh ip route vrf 
+alias exec sibv sh ip bgp vpnv4 
