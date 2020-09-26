@@ -8,10 +8,10 @@ use Fcntl qw(:DEFAULT :flock);
 use Getopt::Long;
 
 my @vrf;
- my $username = 'nms';
- my $password ='nmsmpls1s4t3';
- my $enablepwd = 'nmsmpls1s4t3';
-#my $enablepwd = 'Satelindo';
+ my $username = '###';
+ my $password ='###';
+ my $enablepwd = '####';
+#my $enablepwd = '####';
  my $routeripaddress;
  my $pop = $_[0];
  my $command = $_[1];
