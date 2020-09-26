@@ -13,9 +13,9 @@ use Getopt::Long;
 #### User Configurable Values #######################################
 
 my $output_file_site = 'indosat'; # for filename do not use extension
-my $username = 'nms2_user';
-my $password ='6121Aztech1';
-my $enablepwd = '6121Aztech1';
+my $username = '######';
+my $password ='#####';
+my $enablepwd = '####';
 my $routeripaddress;
 my $filename_router;
 my @commands;
