@@ -1,3 +1,2 @@
 # cisco
-Random cisco code
-Cisco probe code
+Specific Python code for parsing cisco 
