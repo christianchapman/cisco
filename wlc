@@ -3,3 +3,5 @@ show ap eventlog RSRC-0704-WAP01
 show wlan sum
 show ap config general 
 show client all 
+debug client xxx
+debug client disable-all
