@@ -8,3 +8,4 @@ alias exec crs copy run start
 alias exec sirv sh ip route vrf 
 alias exec sibv sh ip bgp vpnv4 
 alias exec sr sh run
+alias exec sir sh ip route
